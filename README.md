@@ -1,4 +1,3 @@
-# UnityBegin
-
-이 레포지토리는 하단의 유튜브 재생목록을 따라 만들어 보는 중입니다.
-https://youtube.com/playlist?list=PLO-mt5Iu5TeZa9dsqMVvXuSfVxwR_2AOz&amp;si=0ngXPik3ar6Eg8dl
+version https://git-lfs.github.com/spec/v1
+oid sha256:67b156024234067f07d14d2f1e7364a2570f965547f09b5b96174b48d67be295
+size 208
